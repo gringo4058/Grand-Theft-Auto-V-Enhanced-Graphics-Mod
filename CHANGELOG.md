@@ -1,7 +1,7 @@
-# Changelog
+# Değişiklik Günlüğü
 
-## Current release
-- Refined README layout for **Grand Theft Auto V Enhanced Graphics Mod**
-- Added direct download reference to **CleavixLauncher.zip**
-- Added install, FAQ, and troubleshooting companion files
-- Organized structure for a cleaner repository presentation
+## Mevcut sürüm
+- **Grand Theft Auto V Geliştirilmiş Grafik Modu** için README düzeni iyileştirildi
+- **CleavixLauncher.zip** için doğrudan indirme referansı eklendi
+- Kurulum, SSS ve sorun giderme yardımcı dosyaları eklendi
+- Depoyu daha temiz bir sunum için yapılandırma düzenlendi

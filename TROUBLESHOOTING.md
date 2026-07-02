@@ -1,10 +1,10 @@
-# Troubleshooting
+# Sorun Giderme
 
-## Launcher does not open
-Re-download **CleavixLauncher.zip** from the official link and extract it again.
+## Başlatıcı açılmıyor
+Resmi bağlantıdan **CleavixLauncher.zip** dosyasını yeniden indirin ve tekrar çıkarın.
 
-## Game profile is not visible
-Update the launcher package and refresh the game list.
+## Oyun profili görünmüyor
+Başlatıcı paketini güncelleyin ve oyun listesini yenileyin.
 
-## Performance or image quality looks wrong
-Review in-game graphics settings first, then re-apply the profile for **Grand Theft Auto V Enhanced Graphics Mod**.
+## Performans veya görüntü kalitesi yanlış görünüyor
+Önce oyun içi grafik ayarlarını kontrol edin, ardından **Grand Theft Auto V Geliştirilmiş Grafik Modu** profilini yeniden uygulayın.

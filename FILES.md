@@ -1,12 +1,12 @@
-# Repository Manifest
+# Depo Manifesi
 
-- `README.md` — main landing page
-- `description.txt` — short repository description
-- `names.txt` — repository title
-- `tags.txt` — checked topic tags
-- `INSTALL.md` — quick setup steps
-- `FAQ.md` — common questions
-- `CHANGELOG.md` — current repository notes
-- `TROUBLESHOOTING.md` — quick issue reference
-- `files/logo.png` — repository asset
-- `preview/preview.png` — preview image asset
+- `README.md` — ana açılış sayfası
+- `description.txt` — kısa depo açıklaması
+- `names.txt` — depo başlığı
+- `tags.txt` — işaretlenmiş konu etiketleri
+- `INSTALL.md` — hızlı kurulum adımları
+- `FAQ.md` — sık sorulan sorular
+- `CHANGELOG.md` — depo notları
+- `TROUBLESHOOTING.md` — hızlı sorun giderme referansı
+- `files/logo.png` — depo varlığı
+- `preview/preview.png` — önizleme görseli varlığı
